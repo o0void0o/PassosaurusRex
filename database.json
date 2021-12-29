@@ -1,0 +1,8 @@
+{
+    "username": "koos",
+    "masterPW": "poes",
+    "securedPasswords": [
+        "{\"alias\": \"Google\", \"password\": \"#$%^&*DGUSVDGVD^WDW^D%%D%D%W\"}",
+        "{\"alias\": \"Facebook\", \"password\": \"32432fsfsdfsdff33f3f3fasdfsdff4f44sdf\"}"
+    ]
+}
