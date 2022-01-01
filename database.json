@@ -1,8 +1,18 @@
 {
     "username": "koos",
-    "masterPW": "poes",
+    "masterPW": "koos",
     "securedPasswords": [
         "{\"alias\": \"Google\", \"password\": \"#$%^&*DGUSVDGVD^WDW^D%%D%D%W\"}",
-        "{\"alias\": \"Facebook\", \"password\": \"32432fsfsdfsdff33f3f3fasdfsdff4f44sdf\"}"
+        "{\"alias\": \"Facebook\", \"password\": \"32432fsfsdfsdff33f3f3fasdfsdff4f44sdf\"}",
+        "{\"alias\": \"hh\", \"password\": \"poespoes\"}",
+        "{\"alias\": \"fffffff\", \"password\": \"loop\"}",
+        "{\"alias\": \"ddddddddddddd\", \"password\": \"rrrrrrrrrrrr\"}",
+        "{\"alias\": \"f\", \"password\": \"df\"}",
+        "{\"alias\": \"rrrrrrrrrrrrrrrrrrrr\", \"password\": \"ggggggggggggggggggggggg\"}",
+        "{\"alias\": \"koos\", \"password\": \"fghgfhfgh\"}",
+        "{\"alias\": \"123\", \"password\": \"55555555555555\"}",
+        "{\"alias\": \"fg\", \"password\": \"dfgdfgdfg\"}",
+        "{\"alias\": \"lklk\", \"password\": \"kk\"}",
+        "{\"alias\": \"loofdsf\", \"password\": \"sdf\"}"
     ]
 }
